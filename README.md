@@ -4,9 +4,11 @@
 ## Array
 |  |
 | ------- |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1646-kth-missing-positive-number](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1646-kth-missing-positive-number) |
 ## Binary Search
 |  |
 | ------- |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1646-kth-missing-positive-number](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1646-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
