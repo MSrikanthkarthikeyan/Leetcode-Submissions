@@ -19,6 +19,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1675-magnetic-force-between-two-balls) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,14 +45,17 @@
 |  |
 | ------- |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Sliding Window
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Math
 |  |
 | ------- |
