@@ -34,6 +34,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0061-rotate-list) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Sorting
@@ -65,4 +66,8 @@
 |  |
 | ------- |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
