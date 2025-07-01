@@ -12,6 +12,7 @@
 | [1646-kth-missing-positive-number](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3324-split-the-array](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/3324-split-the-array) |
 ## Binary Search
 |  |
@@ -38,6 +39,7 @@
 | [0061-rotate-list](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0061-rotate-list) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Sorting
 |  |
 | ------- |
@@ -81,4 +83,8 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0046-permutations) |
+## Simulation
+|  |
+| ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/2265-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
