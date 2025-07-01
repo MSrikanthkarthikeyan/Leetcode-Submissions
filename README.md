@@ -7,6 +7,7 @@
 | [0046-permutations](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0046-permutations) |
 | [0485-max-consecutive-ones](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
+| [0605-can-place-flowers](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0605-can-place-flowers) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1646-kth-missing-positive-number) |
@@ -87,4 +88,8 @@
 |  |
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/2265-partition-array-according-to-given-pivot) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
