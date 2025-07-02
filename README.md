@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0046-permutations) |
+| [0283-move-zeroes](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0605-can-place-flowers) |
@@ -39,6 +40,7 @@
 | ------- |
 | [0061-rotate-list](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0443-string-compression) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
