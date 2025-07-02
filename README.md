@@ -10,6 +10,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0605-can-place-flowers) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1675-magnetic-force-between-two-balls) |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [3324-split-the-array](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/3324-split-the-array) |
 ## Counting
 |  |
