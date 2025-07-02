@@ -63,11 +63,13 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [3617-find-the-original-typed-string-i](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/3618-find-the-original-typed-string-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [3618-find-the-original-typed-string-ii](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/3618-find-the-original-typed-string-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -102,4 +104,8 @@
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0605-can-place-flowers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3618-find-the-original-typed-string-ii](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/3618-find-the-original-typed-string-ii) |
 <!---LeetCode Topics End-->
