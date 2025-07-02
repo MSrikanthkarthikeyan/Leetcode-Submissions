@@ -43,6 +43,7 @@
 | [0061-rotate-list](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0443-string-compression) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0151-reverse-words-in-a-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0443-string-compression) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/2134-maximize-the-confusion-of-an-exam) |
