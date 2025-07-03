@@ -6,6 +6,7 @@
 | ------- |
 | [0046-permutations](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0046-permutations) |
 | [0283-move-zeroes](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0334-increasing-triplet-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0605-can-place-flowers) |
@@ -106,6 +107,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0605-can-place-flowers) |
 ## Dynamic Programming
 |  |
