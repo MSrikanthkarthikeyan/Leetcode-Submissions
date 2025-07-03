@@ -79,6 +79,7 @@
 |  |
 | ------- |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Interactive
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0024-swap-nodes-in-pairs) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 |  |
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Greedy
 |  |
 | ------- |
@@ -108,4 +111,8 @@
 |  |
 | ------- |
 | [3618-find-the-original-typed-string-ii](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/3618-find-the-original-typed-string-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
