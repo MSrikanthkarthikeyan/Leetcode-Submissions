@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0078-subsets) |
 | [0283-move-zeroes](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0334-increasing-triplet-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0485-max-consecutive-ones) |
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0078-subsets) |
 ## Simulation
 |  |
 | ------- |
@@ -119,5 +121,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0078-subsets) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
