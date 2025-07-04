@@ -64,6 +64,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0443-string-compression) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [3617-find-the-original-typed-string-i](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/3617-find-the-original-typed-string-i) |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0024-swap-nodes-in-pairs) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Backtracking
@@ -108,6 +110,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Greedy
