@@ -84,6 +84,7 @@
 | ------- |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Interactive
 |  |
 | ------- |
@@ -98,6 +99,7 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0024-swap-nodes-in-pairs) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -123,4 +125,5 @@
 | ------- |
 | [0078-subsets](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0078-subsets) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 <!---LeetCode Topics End-->
