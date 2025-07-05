@@ -8,6 +8,7 @@
 | [0078-subsets](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0078-subsets) |
 | [0283-move-zeroes](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0334-increasing-triplet-subsequence) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0605-can-place-flowers) |
@@ -32,6 +33,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1510-find-lucky-integer-in-an-array) |
