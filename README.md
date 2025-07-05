@@ -89,6 +89,7 @@
 |  |
 | ------- |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Interactive
@@ -117,6 +118,7 @@
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Greedy
 |  |
