@@ -19,6 +19,7 @@
 | [1646-kth-missing-positive-number](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3324-split-the-array](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/3324-split-the-array) |
 ## Binary Search
@@ -37,6 +38,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [3324-split-the-array](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/3324-split-the-array) |
 ## Counting
 |  |
@@ -136,4 +138,8 @@
 | [0078-subsets](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0078-subsets) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+## Design
+|  |
+| ------- |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 <!---LeetCode Topics End-->
