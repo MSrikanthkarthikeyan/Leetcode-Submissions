@@ -6,6 +6,7 @@
 | ------- |
 | [0046-permutations](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0078-subsets) |
+| [0189-rotate-array](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0334-increasing-triplet-subsequence) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -51,6 +52,7 @@
 | ------- |
 | [0061-rotate-list](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0392-is-subsequence) |
@@ -90,6 +92,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0189-rotate-array) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
