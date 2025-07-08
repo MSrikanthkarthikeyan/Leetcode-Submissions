@@ -15,6 +15,7 @@
 | [0605-can-place-flowers](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0605-can-place-flowers) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1646-kth-missing-positive-number) |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1675-magnetic-force-between-two-balls](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1675-magnetic-force-between-two-balls) |
 ## String
@@ -130,6 +132,7 @@
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0605-can-place-flowers) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -145,4 +148,8 @@
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 <!---LeetCode Topics End-->
