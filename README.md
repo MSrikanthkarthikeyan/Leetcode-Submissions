@@ -20,6 +20,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1675-magnetic-force-between-two-balls) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -32,6 +33,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1675-magnetic-force-between-two-balls) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Hash Table
 |  |
@@ -68,6 +70,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1675-magnetic-force-between-two-balls](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1675-magnetic-force-between-two-balls) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## String
 |  |
 | ------- |
@@ -137,6 +140,7 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0392-is-subsequence) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/3618-find-the-original-typed-string-ii) |
 ## Bit Manipulation
 |  |
