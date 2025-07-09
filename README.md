@@ -63,6 +63,7 @@
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2481-strictly-palindromic-number](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/2481-strictly-palindromic-number) |
 ## Sorting
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 | [0189-rotate-array](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/0189-rotate-array) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2481-strictly-palindromic-number](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/2481-strictly-palindromic-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Interactive
@@ -156,4 +158,8 @@
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/MSrikanthkarthikeyan/Leetcode-Submissions/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
